@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
