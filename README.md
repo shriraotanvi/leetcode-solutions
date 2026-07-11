@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
