@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0046-permutations) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0268-missing-number) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0046-permutations) |
