@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0860-lemonade-change](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
