@@ -9,11 +9,13 @@ public:
             leftsum += cardPoints[i];
             maxsum = leftsum;
         }
-        for(int i=k-1; i>=0; i--){
-            leftsum -= cardPoints[i];
+        int l = k-1;
+        while(l>=0){
             rightsum += cardPoints[r];
             r--;
-            maxsum = max(maxsum, leftsum + rightsum);
+            leftsum -= cardPoints[l];
+            l--;
+            maxsum = max(maxsum, leftsum+rightsum);
         }
         return maxsum;
     }
