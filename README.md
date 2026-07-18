@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0268-missing-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -199,9 +202,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
