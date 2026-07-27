@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
