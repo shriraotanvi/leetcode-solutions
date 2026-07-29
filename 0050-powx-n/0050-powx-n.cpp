@@ -2,19 +2,21 @@ class Solution {
 public:
     double myPow(double x, int n) {
         double ans = 1.0;
-        long long nn = n;//copy of n
-        if(nn<0) nn = -1 * nn; //agar egative value toh positive banao
-        while(nn){
-            if(nn%2){
-                ans = ans * x;
-                nn = nn - 1;    //this is when n is odd
+        long nn = n;
+        if(n<0) nn = -1*nn;
+        while(nn>0){
+            if(nn%2 == 1){
+                ans = ans*x;
+                nn = nn - 1;
             }
             else{
-                x = x*x;     //this is when n is even
+                x*=x;
                 nn = nn/2;
             }
         }
-        if(n<0) ans = (double)(1.0)/(double)(ans);
+        if(n<0){
+            ans = double(1.0)/double(ans);
+        }
         return ans;
     }
 };
