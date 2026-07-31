@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
