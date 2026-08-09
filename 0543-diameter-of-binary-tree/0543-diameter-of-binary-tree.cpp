@@ -18,9 +18,9 @@ public:
     }
     int findmax(TreeNode* root, int& maxi){
         if(root == NULL) return 0;
-        int lh = findmax(root->left, maxi);
-        int rh= findmax(root->right, maxi);
-        maxi = max(maxi, lh+rh);
-        return 1 + max(lh, rh);
+        int left = findmax(root->left, maxi);
+        int right = findmax(root->right, maxi);
+        maxi = max(maxi, left+right);
+        return 1+max(left, right);
     }
 };
