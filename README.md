@@ -436,4 +436,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
