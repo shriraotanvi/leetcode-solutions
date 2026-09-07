@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0268-missing-number) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0268-missing-number) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Memoization
@@ -455,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1179-reformat-department-table](https://github.com/shriraotanvi/leetcode-solutions/tree/master/1179-reformat-department-table) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
