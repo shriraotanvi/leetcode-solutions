@@ -4,23 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count = 0
-        element = None
+        mpp = {}
+
         for i in range(len(nums)):
-            if count == 0:
-                count = 1
-                element = nums[i]
-            elif nums[i] == element:
-                count += 1
+            if nums[i] in mpp:
+                mpp[nums[i]] += 1
             else:
-                count -= 1
+                mpp[nums[i]] = 1
         
-        count1 = 0
-        for i in range(len(nums)):
-            if nums[i] == element:
-                count1 += 1
-        
-        if count1 > len(nums)/2:
-            return element
-        else:
-            return -1
+        for i, j in mpp.items():
+            if j > len(nums)/2:
+                return i
+        return -1
