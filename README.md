@@ -471,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0169-majority-element) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shriraotanvi/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
